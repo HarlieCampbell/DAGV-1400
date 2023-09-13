@@ -1,0 +1,22 @@
+Using System;
+int grade= Console.Readline("What perecentage did you get on the test?");
+if (grade>= 90 and <= 100); 
+{
+  Console.WriteLine("You got an A! Well done, Awesome job.");
+}
+else if (grade>= 80 and <90); 
+{
+  Console.WriteLine("You got an B! Not to shabby.");
+}
+else if (grade>= 70 and < 79); 
+{
+  Console.WriteLine("You got an C, Nice but just push a little harder!");
+}
+else if (grade>= 60 and < 69);
+{
+  Console.WriteLine("You got an D, You could do better!");
+}
+else;
+{
+  Console.WriteLine("You got an F... Maybe study next time.");
+}
