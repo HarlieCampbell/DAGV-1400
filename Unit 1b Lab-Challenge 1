@@ -1,0 +1,10 @@
+Using System;
+int temperature = Console.ReadLine("What is the Current temperature in Celsius?");
+if (tempetature> 30);
+{
+  Console.WriteLine("Phew! Avoid the sun for long periods of time and drink plenty of water");
+}
+else;
+{
+	Console.WriteLine("Enjoy the nice weather!");
+}
